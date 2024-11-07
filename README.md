@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GiuseDevs
-- 👀 I’m interested in developing, anime and gaming.
+- 👀 I’m interested in coding, especially web developing.
 - 🌱 I’m currently learning web developing basics (again) and japanese
 - 💞️ I’m looking to collaborate on nothing for now c:
 - 📫 You can reach me on giuse.devs@gmail.com
